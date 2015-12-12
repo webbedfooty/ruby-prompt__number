@@ -26,3 +26,7 @@ Remember two things:
 As always, one resource is Google. Some of the questions above can by entered verbatim into a Google search, and for others that won't be as effective. Either way, expect to read (or watch videos) about more than just the simple answer to each question. Often a question's answer--even one that seems short or simple--doesn't really make sense until after you've read the paragraphs before and after it.
 
 - http://ruby.bastardsbook.com/chapters/numbers/
+- https://studio.code.org/s/20-hour/stage/2/puzzle/6
+- https://studio.code.org/s/20-hour/stage/2/puzzle/7
+- https://studio.code.org/s/20-hour/stage/2/puzzle/8
+- https://studio.code.org/s/20-hour/stage/2/puzzle/9
