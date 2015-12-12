@@ -1,20 +1,20 @@
 # Prompt - Ruby
 
-## Strings
+## Numbers
 
 ### Objectives
 
-1. Learn about strings in Ruby.
+1. Learn about numbers in Ruby.
 
 ### Instructions
 
-Research and then write answers to the following questions in **lib/strings.md**.
+Research and then write answers to the following questions in **lib/numbers.md**.
 
-- What is a String?
-- What are some examples of information that would be Strings as opposed to some other data type?
-- What is one way, using Ruby, to retrieve the 6th character in a String like `"Ada Lovelace"`? How about the 8th character? What happens if you try to retrieve the value of the _99th_ character (Or any character that doesn't exist)?
-- The previous question asks about finding, for example, the 6th character in a String. Is it possible to find the **-6th** (Notice the negative symbol!) character in a String? What does that even mean?
-- What is one way, using Ruby, to replace certain characters in a string with some other set of characters? For example, given `"Sumeet Jain"`, how would you replace all of the `e` characters in my name with exclamation marks? (So it would be `"Sum!!t Jain"`.)
+- What are the different kinds of numbers in Ruby?
+- What are some common operations and comparisons you would perform on numbers?
+- What is the difference between the `+` operation on a number versus on a String?
+- If you have a _String_ `"20"` and want to perform a mathematical operation (like division or multiplication) on it, will it work? If yes, why? If not, how would you make it work?
+- What is the purpose of the `times` operation? Is that the same as `*`?
 
 Remember two things:
 
@@ -25,6 +25,4 @@ Remember two things:
 
 As always, one resource is Google. Some of the questions above can by entered verbatim into a Google search, and for others that won't be as effective. Either way, expect to read (or watch videos) about more than just the simple answer to each question. Often a question's answer--even one that seems short or simple--doesn't really make sense until after you've read the paragraphs before and after it.
 
-- https://www.youtube.com/watch?v=wKAdcFW5kp8
-- https://rubymonk.com/learning/books/1-ruby-primer/chapters/5-strings/
-- https://github.com/learn-co-curriculum/string-concatenation-readme
+- http://ruby.bastardsbook.com/chapters/numbers/
